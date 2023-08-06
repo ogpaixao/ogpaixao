@@ -5,9 +5,6 @@
 
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ogpaixao&show_icons=true&theme=transparent"/>
- </div>
-
- <div>
   <img width="41%' height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogpaixao&layout=compact&langs_count=16&theme=transparent"/>
 </div>
 <br>
@@ -51,7 +48,7 @@
 
 
 
-![Snake animation](https://github.com/ogpaixao/ogpaixao/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
