@@ -7,8 +7,6 @@
   <img align-itens="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ogpaixao&show_icons=true&theme=transparent"/>
   <img align-itens="rigth" width="39%" heigh="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogpaixao&layout=compact&theme=transparent"/>
 </div>
-<br>
-<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ogpaixao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
