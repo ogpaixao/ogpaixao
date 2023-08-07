@@ -4,10 +4,9 @@
 
 
 <div>
-  <img align-itens="left" width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ogpaixao&show_icons=true&theme=transparent&PAT_1"/>
-  <img align-itens="rigth" width="39%" heigh="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogpaixao&layout=compact&theme=transparent&PAT_1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ogpaixao&show_icons=true&theme=transparent&PAT_1"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogpaixao&layout=compact&theme=transparent&PAT_1"/>
 </div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ogpaixao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
