@@ -45,7 +45,7 @@
 
 
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogpaixao/ogpaixao/output/github-contribution-grid-snake.svg">
 
 
 <div align="center">
