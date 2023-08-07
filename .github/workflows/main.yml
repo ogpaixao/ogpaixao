@@ -1,4 +1,4 @@
-name: Pages
+name: generate animation
 
 on:
   push:
